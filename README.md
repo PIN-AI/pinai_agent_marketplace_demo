@@ -22,9 +22,9 @@ Fill in values in `.env`
 
 ## 🤖 Start Agent-to-agent Chat
 ```
-streamlit run examples/agent_to_agent_chat.py"  # Always have one streamlit window running to avoid unexpected issues
-
+streamlit run examples/agent_to_agent_chat.py  
 ```
+(Always have one streamlit window running to avoid unexpected issues)
 
 ## ⚙️ Integrate with Your Own Agent
 
