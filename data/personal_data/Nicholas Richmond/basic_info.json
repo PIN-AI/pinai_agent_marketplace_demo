@@ -1,0 +1,19 @@
+{
+  "age": "45",
+  "name": "Nicholas Richmond",
+  "interests": [
+    "reading",
+    "music (jazz, classics)",
+    "art and exhibitions",
+    "technology and renewable energy",
+    "coffee culture",
+    "outdoor activities (hiking, biking, running)"
+  ],
+  "challenges": "Balancing a demanding medical career with personal well-being and stress management.",
+  "occupation": "Medical Doctor (MD)",
+  "dateOfBirth": "02-01-1979",
+  "foodPreference": "Pasta and comfort foods",
+  "fitnessPreference": "Outdoor exercise like hiking, running, and biking",
+  "address": "8 Green Ridge Pl, Saratoga Springs, NY 12866",
+  "phoneNumber": "+12345678901"
+}

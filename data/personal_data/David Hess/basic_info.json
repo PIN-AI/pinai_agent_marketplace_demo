@@ -1,0 +1,21 @@
+{
+    "age": "31",
+    "name": "David Hess",
+    "interests": [
+      "Technology",
+      "Space Exploration",
+      "Reading",
+      "Community Advocacy",
+      "Sports",
+      "Outdoor Activities",
+      "Photography",
+      "Movies & TV"
+    ],
+    "challenges": "Balancing a demanding work schedule and community projects with personal fitness goals and creative pursuits, while occasionally overcoming technical or project setbacks.",
+    "occupation": "Tech Professional and Community Advocate",
+    "dateOfBirth": "10-05-1993",
+    "foodPreference": "Enjoys traditional Kenyan dishes—like Nyama Choma and Ugali—with a focus on organic, locally sourced foods",
+    "fitnessPreference": "Prefers outdoor activities such as hiking, cycling, rock climbing, and running",
+    "address": "8 Green Ridge Pl, Saratoga Springs, NY 12866",
+    "phoneNumber": "+2813304123"
+  }

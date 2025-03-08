@@ -1,0 +1,20 @@
+{
+  "age": "22",
+  "name": "Kelly Simon",
+  "interests": [
+    "technology",
+    "movies",
+    "reading",
+    "hiking",
+    "yoga",
+    "art",
+    "cooking"
+  ],
+  "challenges": "Balancing a demanding graduate workload with personal well-being and creative pursuits",
+  "occupation": "Student",
+  "dateOfBirth": "04-20-2002",
+  "foodPreference": "Healthy, fresh, and balanced meals (e.g., salads, sushi, light dishes)",
+  "fitnessPreference": "A mix of jogging, yoga, and outdoor activities",
+  "address": "8 Green Ridge Pl, Saratoga Springs, NY 12866",
+  "phoneNumber": "+12345678901"
+}
