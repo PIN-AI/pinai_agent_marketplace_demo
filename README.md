@@ -2,7 +2,10 @@
 
 A demonstration of the PIN AI agent marketplace that enables the creation of personalized AI assistants based on user data and service agents that fulfill real-world tasks. Personal AI agents can interact with service agents on behalf of users to seamlessly complete various tasks.
 
-![PIN AI and Byte AI Agent Interaction](https://github.com/user-attachments/assets/3d71a861-d516-4fc6-b615-4d6f04112598)
+**PIN AI and Byte AI Food Delivery Agent Interaction**
+
+<video src="https://github.com/user-attachments/assets/3d71a861-d516-4fc6-b615-4d6f04112598" data-canonical-src="https://github.com/user-attachments/assets/3d71a861-d516-4fc6-b615-4d6f04112598" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:440px; min-height: 200px"></video>
+
 
 ## ⚡ Installation
 
