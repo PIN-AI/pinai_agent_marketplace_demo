@@ -4,7 +4,7 @@ A demonstration of the PIN AI agent marketplace that enables the creation of per
 
 **PIN AI and Byte AI Food Delivery Agent Interaction**
 
-<video src="./media/pinai_byteai_agent_interaction.mp4" data-canonical-src="./media/pinai_byteai_agent_interaction.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:440px; min-height: 200px"></video>
+<video src="./media/pinai_byteai_agent_interaction.mp4" width="80%" controls></video>
 
 
 ## ⚡ Installation
